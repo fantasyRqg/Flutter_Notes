@@ -8,8 +8,7 @@ FLutter 学习笔记
 - open flutter page on app
 - hot restart page  
 
-
-##flutter module
+## flutter module
 
 use for add flutter to existing projects
 
