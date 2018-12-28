@@ -6,8 +6,7 @@ FLutter 学习笔记
 
 - command line flutter attach
 - open flutter page on app
-- hot restart page
-
+- hot restart page  
 
 
 ##flutter module
